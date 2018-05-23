@@ -1,0 +1,20 @@
+{
+	"port": 3001,
+	"mysql":{
+		"host":"127.0.0.1",
+		"user":"root",
+		"password":"",
+		"database":"payment_gateway_test"
+	},
+	"redis":{
+		"host":"127.0.0.1",
+		"password":"",
+		"db": 0
+	},
+	"gateway_mock_a":{
+		"isActivated":true
+	},
+	"gateway_mock_b":{
+		"isActivated":true
+	}
+}
