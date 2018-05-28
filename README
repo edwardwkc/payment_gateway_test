@@ -3,7 +3,7 @@
 1. install third part libraries
 ` npm install `
 
-2. restore the create_schema.sql to mysql db
+2. restore the db_schema.sql to mysql db
 
 3. update configs in `config/default.conf`
 
