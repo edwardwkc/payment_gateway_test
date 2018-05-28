@@ -3,7 +3,7 @@
 1. install third part libraries
 ` npm install `
 
-2. restore the create_schema.sql to mysql db
+2. restore the db_schema.sql to mysql db
 
 3. update configs in `config/default.conf`
 
@@ -36,8 +36,7 @@ bootstrap
 
 ## TODO
 1. remove debug console message
-2. call payment gateway for getting transaction if no record found in cache and db
-3. hash the check payment param before send to server and query the payment by hashed value
+2. hash the check payment param before send to server and query the payment by hashed value
 
 
 
