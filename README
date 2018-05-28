@@ -38,8 +38,7 @@ bootstrap
 
 ## TODO
 1. remove debug console message
-2. call payment gateway for getting transaction if no record found in cache and db
-3. hash the check payment param before send to server and query the payment by hashed value
+2. hash the check payment param before send to server and query the payment by hashed value
 
 
 
